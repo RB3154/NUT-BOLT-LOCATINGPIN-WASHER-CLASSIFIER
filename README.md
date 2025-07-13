@@ -11,4 +11,4 @@ A production-ready pipeline that **detects four mechanical parts—bolt, nut, wa
 
 # Kaggle Dataset
 
-Link:-https:https://www.kaggle.com/datasets/manikantanrnair/images-of-mechanical-parts-boltnut-washerpin
+Link:-https://www.kaggle.com/datasets/manikantanrnair/images-of-mechanical-parts-boltnut-washerpin
