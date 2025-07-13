@@ -9,6 +9,6 @@ A production-ready pipeline that **detects four mechanical parts—bolt, nut, wa
 * ✅ one-liner inference script with saved weights  
 * ✅ pre-split dataset & pretrained weights, so you can play immediately
 
-# Download Testing Dataset
+# Kaggle Dataset
 
-Google Drive Link:-https://drive.google.com/drive/folders/11CFAWWSP3umhEc18r-KbkX_PkZEdEsyh?usp=drive_link
+Link:-https:https://www.kaggle.com/datasets/manikantanrnair/images-of-mechanical-parts-boltnut-washerpin
